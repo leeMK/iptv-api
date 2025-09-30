@@ -17,7 +17,6 @@ jobs:
     # 添加权限声明
     permissions:
       contents: write
-      workflows: write  # 明确允许修改工作流文件
     steps:
       - name: Set branch name
         id: vars
