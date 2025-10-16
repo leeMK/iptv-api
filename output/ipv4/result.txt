@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-16 06:27:50,http://php.cqshushu.ggff.net/jzb.php?id=cctv2&公众号【医工学习日志】
+2025-10-17 06:25:23,http://php.cqshushu.ggff.net/jzb.php?id=cctv2&公众号【医工学习日志】
 
 📺央视频道,#genre#
 CCTV-2,http://php.cqshushu.ggff.net/jzb.php?id=cctv2&公众号【医工学习日志】
@@ -8,14 +8,14 @@ CCTV-8,http://php.cqshushu.ggff.net/jzb.php?id=cctv8&公众号【医工学习日
 CCTV-9,http://php.cqshushu.ggff.net/jzb.php?id=cctv9&公众号【医工学习日志】
 CCTV-10,http://php.cqshushu.ggff.net/jzb.php?id=cctv10&公众号【医工学习日志】
 CCTV-11,http://php.cqshushu.ggff.net/jzb.php?id=cctv11&公众号【医工学习日志】
+CCTV-13,http://106.53.99.30/tv/cctv13.php
+CETV-1,https://httop.top/ysp-cetv1
 CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-河南卫视,http://61.184.46.85:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-内蒙古卫视,http://zqh2333.top:2222/rtp/239.93.24.8:5140
 西藏卫视,http://xxwx.yoesun.com/xxw/西藏网.php?id=ws&key=txiptv
 新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
 
@@ -78,12 +78,17 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 梨园,rtsp://115.153.212.72/PLTV/88888888/224/3221226822/59781815.smil
 梨园,rtsp://115.153.247.80/PLTV/88888888/224/3221226822/59781815.smil
 梨园,rtsp://115.153.233.154/PLTV/88888888/224/3221226822/59781815.smil
+邯郸新闻,http://bclivepull.handannews.com.cn/BClive/NewsBroadcast.m3u8
 河北都市,https://radio.pull.hebtv.com/live/hebnczx.m3u8
 
 ☘️新疆频道,#genre#
 哈密一套,https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b.flv
 哈密二套,https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8
 哈密三套,https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8
+伊犁汉语综合,http://110.153.180.106:55555/out_1/index.m3u8?zxinjd
+伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8?zxinjd
+伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
+伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8?zxinjd
 兵团五师双河新闻综合,http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?fbl=
 兵团五师双河新闻综合,https://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?zxinjd
 奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd
@@ -114,7 +119,6 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
-Now华剧,http://iptv.4666888.xyz/iptv2A.php?id=84
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
 
 🎬电影频道,#genre#
@@ -136,10 +140,8 @@ IPTV经典电影,http://139.129.231.228/rtp/239.21.1.124:5002
 
 🏀体育频道,#genre#
 广东体育,http://r.jdshipin.com/LiYdg
-体育赛事,http://139.129.231.228:50060/rtp/239.21.2.44:5002
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
-山东体育,http://123.168.95.21:4000/rtp/239.21.1.141:5002
 
 🪁动画频道,#genre#
 新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8
@@ -153,14 +155,13 @@ IPTV经典电影,http://139.129.231.228/rtp/239.21.1.124:5002
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
-金鹰卡通,http://101.66.199.125:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+金鹰卡通,http://101.66.199.152:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
 🎮游戏频道,#genre#
 游戏竞技,http://ygbh.site/php/bfgd.php?id=296
-海看电竞,http://139.129.231.228/rtp/239.21.1.135:5002
 
 🎵音乐频道,#genre#
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
