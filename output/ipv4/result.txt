@@ -1,21 +1,22 @@
 🕘️更新时间,#genre#
-2025-10-27 06:30:06,http://218.19.109.221:808/hls/3/index.m3u8
+2025-10-28 06:30:17,http://sh.lnott.top:880/dx01.m3u8
 
 📺央视频道,#genre#
-CCTV-4,http://218.19.109.221:808/hls/3/index.m3u8
-CCTV-11,http://sh.lnott.top:880/dx11.m3u8
-CCTV-13,http://106.53.99.30/tv/cctv13.php
-CCTV-17,http://sh.lnott.top:880/dx17.m3u8
+CCTV-1,http://sh.lnott.top:880/dx01.m3u8
 CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 
 💰央视付费频道,#genre#
+世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://113.106.171.234:8899/rtp/239.20.0.90:3040
 黑龙江卫视,http://113.106.171.234:8899/rtp/239.20.0.91:3036
+内蒙古卫视,http://113.106.171.234:8899/rtp/239.20.0.153:2104
+三沙卫视,http://113.106.171.234:8899/rtp/239.20.0.52:3192
+天津卫视,http://113.106.171.234:8899/rtp/239.20.0.89:3044
+新疆卫视,http://sh.lnott.top:880/dx55.m3u8
 新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
-新疆卫视,http://113.106.171.234:8899/rtp/239.20.0.158:2114
 
 ☘️北京频道,#genre#
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
@@ -24,9 +25,10 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
 
 ☘️重庆频道,#genre#
+璧山综合,http://222.179.42.129:8181/hls1.m3u8?zzhongqd
 铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
-重庆汽摩,http://183.230.184.51:65500/tntv1.m3u8?zzhongqd
 重庆汽摩,http://183.64.181.25:40023/rongchang01.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+重庆汽摩,http://183.230.184.51:65500/tntv1.m3u8?zzhongqd
 重庆汽摩,http://222.179.155.21:1935/ch1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 垫江综合,rtmp://play-sh.quklive.com/live/1672366847646284
 万州综合,http://live.xmcdn.com/live/1678/64.m3u8
@@ -75,7 +77,6 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 梨园,rtsp://115.153.212.72/PLTV/88888888/224/3221226822/59781815.smil
 梨园,rtsp://115.153.247.80/PLTV/88888888/224/3221226822/59781815.smil
 梨园,rtsp://115.153.233.154/PLTV/88888888/224/3221226822/59781815.smil
-邯郸新闻,http://bclivepull.handannews.com.cn/BClive/NewsBroadcast.m3u8
 河北都市,https://radio.pull.hebtv.com/live/hebnczx.m3u8
 
 ☘️新疆频道,#genre#
@@ -148,6 +149,8 @@ IPTV经典电影,http://139.129.231.228/rtp/239.21.1.124:5002
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
+金鹰卡通,http://101.66.198.152:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+金鹰卡通,http://101.66.198.140:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
