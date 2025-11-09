@@ -1,9 +1,10 @@
 🕘️更新时间,#genre#
-2025-11-09 06:27:12,http://171.116.216.113:10010/rtp/226.0.1.157:3086
+2025-11-10 06:28:09,http://171.116.216.113:10010/rtp/226.0.1.157:3086
 
 📺央视频道,#genre#
 CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086
 CCTV-3,http://113.106.171.234:8899/rtp/239.20.0.236:2270
+CCTV-8,http://111.221.137.155:44330/tsfile/live/0008_1.m3u8?key=txiptv
 CETV-1,http://171.116.216.113:10010/rtp/226.0.2.181:9360
 CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 
@@ -14,6 +15,7 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://113.106.171.234:8899/rtp/239.20.0.90:3040
 黑龙江卫视,http://113.106.171.234:8899/rtp/239.20.0.91:3036
+陕西卫视,http://111.221.137.155:44330/tsfile/live/0114_1.m3u8?key=txiptv
 新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
 
 ☘️北京频道,#genre#
@@ -25,9 +27,10 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 ☘️重庆频道,#genre#
 铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
 重庆汽摩,http://183.230.184.51:65500/tntv1.m3u8?zzhongqd
-重庆汽摩,http://183.64.181.25:40023/rongchang01.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+重庆汽摩,http://183.64.181.25:40023/rongchang01.m3u8
 重庆汽摩,http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8
 重庆汽摩,http://222.179.155.21:1935/ch1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 垫江综合,rtmp://play-sh.quklive.com/live/1672366847646284
 万州综合,http://live.xmcdn.com/live/1678/64.m3u8
 万州三峡移民,http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8?zzhongqd
@@ -147,7 +150,9 @@ IPTV经典电影,http://113.88.211.3:9898/hls/71/index.m3u8
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
+24H国漫热播,https://lunbo.freetv.top/yy/1353937086
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
+七龙珠,http://live.nctv.top/huya.php?id=11601966
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
 🎮游戏频道,#genre#
