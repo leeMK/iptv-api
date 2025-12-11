@@ -1,17 +1,14 @@
 🕘️更新时间,#genre#
-2025-12-11 06:33:45,http://a.402089.xyz:4022/rtp/233.50.200.143:5140
+2025-12-12 06:35:40,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
 
 📺央视频道,#genre#
-CCTV-1,http://a.402089.xyz:4022/rtp/233.50.200.143:5140
 CCTV-2,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
 CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
 CCTV-5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 CCTV-7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
 CCTV-8,http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
 CCTV-9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
-CCTV-10,https://play.kankanlive.com/live/1698423445959919.m3u8
 CCTV-13,http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
-CCTV-13,http://144.255.32.94:8288/rtp/239.21.2.3:5002
 CETV-1,http://171.125.90.120:6001/rtp/226.0.2.181:9360
 
 💰央视付费频道,#genre#
@@ -19,14 +16,10 @@ CETV-1,http://171.125.90.120:6001/rtp/226.0.2.181:9360
 风云音乐,http://171.125.90.120:6001/rtp/226.0.2.220:9672
 第一剧场,http://171.125.90.120:6001/rtp/226.0.2.221:9680
 风云剧场,http://171.125.90.120:6001/rtp/226.0.2.227:9728
-怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
 怀旧剧场,http://171.125.90.120:6001/rtp/226.0.2.224:9704
-女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
 女性时尚,http://171.125.90.120:6001/rtp/226.0.2.226:9720
 高尔夫网球,http://171.125.90.120:6001/rtp/226.0.2.217:9648
-风云足球,http://120.76.248.139/live/bfgd/4200000225.m3u8
 电视指南,http://171.125.90.120:6001/rtp/226.0.2.218:9656
-世界地理,http://120.76.248.139/live/bfgd/4200000177.m3u8
 兵器科技,http://171.125.90.120:6001/rtp/226.0.2.223:9696
 
 📡卫视频道,#genre#
@@ -44,10 +37,12 @@ CETV-1,http://171.125.90.120:6001/rtp/226.0.2.181:9360
 
 ☘️重庆频道,#genre#
 铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
-重庆汽摩,http://183.64.181.25:40023/rongchang01.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-重庆汽摩,http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8
-重庆汽摩,http://183.230.184.51:65500/tntv1.m3u8?zzhongqd
+重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 重庆汽摩,http://222.179.155.21:1935/ch1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+重庆汽摩,http://183.64.181.25:40023/rongchang01.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+重庆汽摩,http://183.230.184.51:65500/tntv1.m3u8?zzhongqd
+重庆汽摩,http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8
+重庆汽摩,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000371?AuthInfo=xxx&userid=gf001&userid=gf001
 垫江综合,rtmp://play-sh.quklive.com/live/1672366847646284
 万州综合,http://live.xmcdn.com/live/1678/64.m3u8
 万州三峡移民,http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8?zzhongqd
@@ -133,15 +128,14 @@ Now华剧,http://iptv.4666888.xyz/iptv2A.php?id=84
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
 
 🎬电影频道,#genre#
-CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
+CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
-靖天映画,http://210.61.15.55:50007/4gtv-4gtv055/index.m3u8?proxy=true
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
@@ -165,8 +159,6 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
-金鹰卡通,http://101.66.198.43:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-金鹰卡通,http://101.66.198.176:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
 🎮游戏频道,#genre#
